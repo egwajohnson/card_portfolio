@@ -37,7 +37,8 @@
 .container .card .cord1 {
     width: 30% auto;
     height: 30vh;
-    background-color: aqua;
+     background-image: url("./image.png");
+     border-radius: 10px;
 }
 
 .container .card .cord2 {
